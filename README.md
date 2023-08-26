@@ -2,7 +2,7 @@
 
 Go see the light
 
- 🔭 I’m currently working on this assignment
+I’m currently working on this assignment
 - 🌱 I’m currently learning how to go with the flow.
 - 🤔 I’m looking for help with career path.
 - 💬 Ask me about anything.
